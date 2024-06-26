@@ -26,6 +26,8 @@ The `Event` object has the following structure:
   "updatedAt": "Date"
 }
 
+```
+
 ## Instructions to Run the Program
 
 ### Clone the repository:
@@ -52,4 +54,3 @@ DELETE /api/events/
 GET /api/events/
 : Retrieve an event by its ID.
 GET /api/events: List all events with optional filters.
-```
