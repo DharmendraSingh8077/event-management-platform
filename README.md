@@ -46,11 +46,11 @@ The application will run on `http://localhost:3000`
 
 
 ## API Endpoints
-POST /api/events: Add a new event.
-PUT /api/events/
+- POST /api/events: Add a new event.
+- PUT /api/events/
 : Update an existing event.
-DELETE /api/events/
+- DELETE /api/events/
 : Delete an event.
-GET /api/events/
+- GET /api/events/
 : Retrieve an event by its ID.
-GET /api/events: List all events with optional filters.
+- GET /api/events: List all events with optional filters.
